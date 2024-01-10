@@ -11,6 +11,7 @@ Place it on your form and enter some HTML in the "Body" property.
 You can put some styles in the "CSS" property to make the text beautiful.
 
 Example for "Body" property: "I think all this ATOMEK stuff is &lt;i&gt;quick&lt;/i&gt; and &lt;b&gt;dirty&lt;/b&gt;."
+
 Example for "CSS" property: "i {color: red;} b {color: blue;}
 
 # Copyright
